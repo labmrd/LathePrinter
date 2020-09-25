@@ -1,0 +1,1 @@
+Import this into Slic3r to get the settings I used for slicing.

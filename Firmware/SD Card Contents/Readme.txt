@@ -1,0 +1,1 @@
+This folder contains a backup of the contents of the Duet SD card as-is (remove this readme). Copy the contents of this folder onto your SD card. This contains the firmware, homing files, kinematics, configuration file, etc. A copy of these key files are also available up one directory for reference.
